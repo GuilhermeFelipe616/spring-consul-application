@@ -1,0 +1,10 @@
+{
+  "services": [
+    {
+      "id": "spring-consul-application",
+      "name": "spring-consul-application",
+      "tags": ["primary"],
+      "port": 8080
+    }
+  ]
+}
